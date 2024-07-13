@@ -23,7 +23,6 @@
 - Email: prosperjohn143@gmail.com
 - Facebook: https://www.facebook.com/profile.php?id=61560423946798&mibextid=ZbWKwL
 - Instagram: https://www.instagram.com/prosperjohn143?igsh=cGZuZ2luNWNyaTNl
-- GitHub: [codeStackr007]{https://github.com/codeStackr007}
 
 😄 Pronouns:
 
