@@ -1,4 +1,4 @@
-👋🏾 Hi, I'm John Prosper (@codeStackr007)
+👋🏾 Hi, I'm John Prosper (codeStackr007)
 
 👀 I'm interested in:
 
