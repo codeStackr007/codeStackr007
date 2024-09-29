@@ -9,8 +9,7 @@
 🌱 I'm currently learning:
 
 - Bootstrap 5.3
-- JavaScript and frameworks like React
-- HTML, CSS, and Markdown
+- JavaScript
 - Git and GitHub workflows
 - VSCode and its features
 
