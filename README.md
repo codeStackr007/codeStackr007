@@ -1,4 +1,3 @@
-Sure, here’s a clean, formal, and cool version of your bio that still sounds like *you*, based on everything I know:
 
 ---
 
