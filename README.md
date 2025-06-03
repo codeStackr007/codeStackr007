@@ -1,46 +1,51 @@
-👋🏾 Hi, I'm John Prosper (codeStackr007)
+Sure, here’s a clean, formal, and cool version of your bio that still sounds like *you*, based on everything I know:
 
-👀 I'm interested in:
+---
 
-- Front-end engineering
-- Mobile App development
-- Building innovative web applications
+👋🏾 Hi, I'm John Prosper — also known as **codeStackr007**
 
-🌱 I'm currently learning:
+👨🏾‍💻 I'm passionate about:
 
-- Bootstrap 5.3
-- JavaScript
-- Git and GitHub workflows
-- VSCode and its features
+* Front-end development
+* Mobile app development
+* Building modern, user-friendly web interfaces
 
-💞 I'm looking to collaborate on:
+📚 I'm currently learning and improving in:
 
-- Front-end projects (HTML, CSS, JavaScript)
+* **TailwindCSS**
+* **JavaScript (Core concepts & DOM manipulation)**
+* **Git & GitHub version control workflows**
+* **Phyton** 
+* **VSCode tools and productivity extensions**
 
-📫 How to reach me:
+🤝 I'm open to collaborating on:
 
-- Email: prosperjohn143@gmail.com
-- Facebook: https://www.facebook.com/profile.php?id=61560423946798&mibextid=ZbWKwL
-- Instagram: https://www.instagram.com/prosperjohn143?igsh=cGZuZ2luNWNyaTNl
+* Front-end projects involving **HTML**, **CSS**, and **JavaScript**
 
-😄 Pronouns:
+📬 You can reach me via:
 
-- He/Him
+* 📧 Email: [prosperjohn143@gmail.com](mailto:prosperjohn143@gmail.com)
+* 📘 Facebook: [My Profile](https://www.facebook.com/profile.php?id=61560423946798&mibextid=ZbWKwL)
+* 📸 Instagram: [@prosperjohn143](https://www.instagram.com/prosperjohn143?igsh=cGZuZ2luNWNyaTNl)
+
+😄 Pronouns: **He/Him**
 
 ⚡ Fun fact:
+I’m a big fan of strategy and adventure games. When I’m not coding, you’ll probably find me immersed in a good game or enjoying orchestral and classical music.
 
-- I'm a avid gamer and enjoy playing strategy and adventure games in my free time. I also love listening to classical and Orchestral music.
+💡 Skills:
 
-Skills:
+* HTML & CSS
+* Git and GitHub
+* Markdown
+* VSCode
 
-- HTML
-- CSS
-- Markdown
-- Git and GitHub
-- VSCode
+🎯 Goals:
 
-Goals:
+* To become a well-rounded front-end engineer
+* To build impactful web and mobile applications
+* To contribute to open-source projects and support the developer community
 
-- To become a proficient front-end engineer
-- To develop engaging web and mobile applications
-- To contribute to open-source projects and give back to the community
+---
+
+Let me know if you’d like to tailor this for LinkedIn, GitHub, or a portfolio site!
