@@ -2,7 +2,7 @@ Sure, here’s a clean, formal, and cool version of your bio that still sounds l
 
 ---
 
-👋🏾 Hi, I'm John Prosper — also known as **codeStackr007**
+👋🏾 Hi, I'm John Prosper — also known as **codeStackr();**
 
 👨🏾‍💻 I'm passionate about:
 
