@@ -14,7 +14,7 @@
 * **TailwindCSS**
 * **JavaScript (Core concepts & DOM manipulation)**
 * **Git & GitHub version control workflows**
-* **Phyton** 
+* **Bash** 
 * **VSCode tools and productivity extensions**
 
 🤝 I'm open to collaborating on:
@@ -38,13 +38,5 @@ I’m a big fan of strategy and adventure games. When I’m not coding, you’ll
 * Git and GitHub
 * Markdown
 * VSCode
-
-🎯 Goals:
-
-* To become a well-rounded front-end engineer
-* To build impactful web and mobile applications
-* To contribute to open-source projects and support the developer community
-
 ---
 
-Let me know if you’d like to tailor this for LinkedIn, GitHub, or a portfolio site!
