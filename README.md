@@ -1,42 +1,37 @@
-
 ---
 
-👋🏾 Hi, I'm John Prosper — also known as **codeStackr();**
+👋🏾 Hi, I'm John Prosper — also known as codeStackr();
 
-👨🏾‍💻 I'm passionate about:
+💻 About Me:
+I'm an aspiring front-end developer passionate about building clean, modern, and user-friendly web experiences. I’m also deeply interested in OSINT (Open Source Intelligence) and cybersecurity, with a long-term goal of exploring how technology can be used to protect and secure systems.
 
-* Front-end development
-* Mobile app development
-* Building modern, user-friendly web interfaces
+🌱 Currently Learning:
 
-📚 I'm currently learning and improving in:
+JavaScript (core concepts & DOM manipulation)
 
-* **TailwindCSS**
-* **JavaScript (Core concepts & DOM manipulation)**
-* **Git & GitHub version control workflows**
-* **Bash** 
-* **VSCode tools and productivity extensions**
+TailwindCSS
 
-🤝 I'm open to collaborating on:
+Git & GitHub
 
-* Front-end projects involving **HTML**, **CSS**, and **JavaScript**
+Bash & VSCode tools
 
-📬 You can reach me via:
 
-* 📧 Email: [prosperjohn143@gmail.com](mailto:prosperjohn143@gmail.com)
-* 📘 Facebook: [My Profile](https://www.facebook.com/profile.php?id=61560423946798&mibextid=ZbWKwL)
-* 📸 Instagram: [@prosperjohn143](https://www.instagram.com/prosperjohn143?igsh=cGZuZ2luNWNyaTNl)
+🤝 Open to Collaborate On:
 
-😄 Pronouns: **He/Him**
+Beginner-friendly front-end projects using HTML, CSS, and JavaScript
 
-⚡ Fun fact:
-I’m a big fan of strategy and adventure games. When I’m not coding, you’ll probably find me immersed in a good game or enjoying orchestral and classical music.
 
-💡 Skills:
+📬 Get in Touch:
 
-* HTML & CSS
-* Git and GitHub
-* Markdown
-* VSCode
+Email: prosperjohn143@gmail.com
+
+Facebook: My Profile
+
+Instagram: @prosperjohn143
+
+
+⚡ Fun Fact:
+When I’m not coding, you’ll probably find me playing strategy games or listening to orchestral and classical music.
+
+
 ---
-
