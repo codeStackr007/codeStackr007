@@ -19,11 +19,12 @@ Hi, I'm Prosper 👋🏾
   <img src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind CSS" />
   <img src="https://img.icons8.com/ios-filled/50/000000/markdown.png" alt="Markdown" />
 </p>
+
 📬 Get in touch:
-- Email: prosperjohn143@gmail.com  
-- Facebook: [facebook.com/prosperjohn143](https://facebook.com/prosperjohn143)  
-- Instagram: [@prosperjohn143](https://instagram.com/prosperjohn143)  
-- GitHub: [github.com/prosperjohn143](https://github.com/prosperjohn143)
+- [Email](mailto:prosperjohn143@gmail.com)
+- [Facebook](https://facebook.com/prosperjohn143)
+- [Instagram](https://instagram.com/prosperjohn143)
+- [GitHub](https://github.com/prosperjohn143)
 
 ⚡ Fun fact:
 When I'm not coding, you'll probably find me playing strategy games or listening to orchestral and classical music.
