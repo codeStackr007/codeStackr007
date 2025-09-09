@@ -1,21 +1,30 @@
-# 👋🏾 Hi, I'm John Prosper — also known as codeStackr();
+Hi, I'm Prosper 👋🏾
 
-## 💻 About Me
-I'm an aspiring front-end developer passionate about building clean, modern, and user-friendly web experiences. I'm also deeply interested in OSINT (Open Source Intelligence) and cybersecurity, with a long-term goal of exploring how technology can be used to protect and secure systems.
+💻 Aspiring junior Frontend Developer from Nigeria. I enjoy building clean, responsive, and user-friendly interfaces. In the future, I’d love to focus on creating websites with beautiful, thoughtful design, and gradually move towards building fully functional applications — including mobile apps.
 
-## 🌱 Currently Learning
-- JavaScript (core concepts & DOM manipulation)
-- TailwindCSS
-- Git & GitHub
-- Bash & VSCode tools
+🌱 Currently working on:
+- Building my personal portfolio
+- Building real-world projects to strengthen my frontend skills
+- Mastering CSS layouts and responsive design
+- Improving code readability and clean coding habits
+- Writing clean, reusable JavaScript logic for interactive UIs
 
-## 🤝 Open to Collaborate On
-- Beginner-friendly front-end projects using HTML, CSS, and JavaScript
+🛠 Technologies I’m into:
+<p align="left">
+  <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5" />
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" />
+  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap" />
+  <img src="https://img.icons8.com/color/48/git.png" alt="Git" />
+  <img src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind CSS" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/markdown.png" alt="Markdown" />
+</p>
 
-## 📬 Get in Touch
-- **Email:** prosperjohn143@gmail.com
-- **Facebook:** [My Profile](https://facebook.com/prosperjohn143)
-- **Instagram:** [@prosperjohn143](https://instagram.com/prosperjohn143)
+📬 Get in touch:
+- Email: prosperjohn143@gmail.com  
+- Facebook: [facebook.com/prosperjohn143](https://facebook.com/prosperjohn143)  
+- Instagram: [@prosperjohn143](https://instagram.com/prosperjohn143)  
+- GitHub: [github.com/prosperjohn143](https://github.com/prosperjohn143)
 
-## ⚡ Fun Fact
+⚡ Fun fact:
 When I'm not coding, you'll probably find me playing strategy games or listening to orchestral and classical music.
