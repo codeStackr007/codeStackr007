@@ -1,6 +1,6 @@
 Hi, I'm Prosper 👋🏾
 
-💻 Aspiring junior Frontend Developer from Nigeria. I enjoy building clean, responsive, and user-friendly interfaces. In the future, I’d love to focus on creating websites with beautiful, thoughtful design, and gradually move towards building fully functional applications — including mobile apps.
+💻 Aspiring Frontend Developer from Nigeria. I enjoy building clean, responsive, and user-friendly interfaces. In the future, I’d love to focus on creating websites with beautiful, thoughtful design, and gradually move towards building fully functional applications — including mobile apps.
 
 🌱 Currently working on:
 - Building my personal portfolio
