@@ -27,3 +27,4 @@ Hi, I'm Prosper 👋🏾
 
 ⚡ Fun fact:
 When I'm not coding, you'll probably find me watching a movie or listening to orchestral and classical music.
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31f7cuqsw6ywpxqmtb3xwpj7ivp4)
