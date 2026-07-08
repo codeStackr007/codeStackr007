@@ -1,5 +1,5 @@
 # Hi, I'm Prosper 👋🏾
-Junior Frontend developer focused on clean code, responsive interfaces and thoughtful design. Self-taught, detail-driven, and always building.
+JavaScript developer focused on clean code, responsive interfaces and thoughtful design. Self-taught, detail-driven, and always building.
 
 **Currently working on & learning:**
 - 📚 Deep-diving into core **JavaScript** to build interactive UIs
