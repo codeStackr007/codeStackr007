@@ -22,6 +22,5 @@ Junior Frontend developer focused on clean code, responsive interfaces and thoug
 - [X](https://twitter.com)
 
 ⚡ **Fun facts & Hobbies:**  
-- 🎧 Yes, I have Spotify Premium—and it heavily fuels my late-night coding sessions!
 - 🎼 Huge fan of **classical, orchestral, and choral music**.
 - 🍿 When I'm offline, you'll find me watching movies or **snacking late at night**.
