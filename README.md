@@ -8,12 +8,12 @@ Junior Frontend developer focused on clean code, responsive interfaces and thoug
 
 **Technologies:**
 <p align="left">
-  <img src="https://icons8.com" alt="HTML5" />
-  <img src="https://icons8.com" alt="CSS3" />
-  <img src="https://icons8.com" alt="JavaScript" />
-  <img src="https://icons8.com" alt="Git" />
-  <img src="https://icons8.com" alt="Tailwind CSS" />
-  <img src="https://icons8.com" alt="Markdown" />
+  <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5" />
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" />
+  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/48/git.png" alt="Git" />
+  <img src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind CSS" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/markdown.png" alt="Markdown" />
 </p>
 
 **Find me:**
